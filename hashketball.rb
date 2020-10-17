@@ -42,7 +42,7 @@ def game_hash
                  :points => 24, :rebounds => 12, :assists => 12, 
                  :steals => 4, :blocks => 5, :slam_dunks => 5}, 
                  
-                 {:player_name => "Mason Plumlee", :number => 1, :shoe => 19,
+                 {:player_name => "Ben Gordon", :number => 1, :shoe => 19,
                  :points => 26, :rebounds => 11, :assists => 6, 
                  :steals => 3, :blocks => 8, :slam_dunks => 5}, 
                  
